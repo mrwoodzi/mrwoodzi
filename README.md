@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrwoodzi
 - 👀 I’m interested in ... learning Python
 - 🌱 I’m currently learning ... Python, Data Analysis and plan on learning Artificial Intelligence
-- 📫 How to reach me ... mrwoodzi1ba@gmail.com
+- 📫 How to reach me ... oodzi@proton.me
 
 <!---
 mrwoodzi/mrwoodzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
