@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrwoodzi
-- 👀 I’m interested in ... learning Python
-- 🌱 I’m currently learning ... Python, Data Analysis and plan on learning Artificial Intelligence
+- 👀 I’m interested in ... Data Science, Network Engineering, Enterprise Level Servers, 3d printing, High End Audio
+- 🌱 I’m currently learning ... Data Science, Networking, 3d printing
 - 📫 How to reach me ... oodzi@proton.me
 
 <!---
